@@ -12,4 +12,4 @@ def fizzbuzz(fizz_val, fizz_word, buzz_val, buzz_word, start_val, end_val)
 end
 
 # call fizzbuzz for multiples of 3 and 5 from 1 to 100 using my name
-fizzbuzz(3, "andrew", 5, "goldin", 100)
+fizzbuzz(3, "andrew", 5, "goldin", 1, 100)
